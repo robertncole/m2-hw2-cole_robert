@@ -13,7 +13,7 @@ RED: #ff294f
     border: 0;
 }
 #top {
-    background-color: #f5f4f0;
+    background-color: #516a4c;
     text-align: right;
     height: 50px;
     padding-right: 6%;
@@ -23,7 +23,7 @@ RED: #ff294f
     padding: 1%;
     padding-top: 16px;
     font-size: .9em;
-    color: #516a4c;
+    color: #fff;
 }
 nav {
     display: inline-block;
