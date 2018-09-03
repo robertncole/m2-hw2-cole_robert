@@ -98,6 +98,7 @@ nav {
     padding: 2%; 
     padding-top: 3%;
     padding-bottom: 3%;
+    
 }
 #garuntee h3 {
     padding-bottom: 3%;
@@ -121,10 +122,10 @@ nav {
     text-transform: uppercase;
 }
 #view_3 {
-    color: #ff294f;
+    color: #fff;
     font-size: 1em;
     background-color: transparent;
-    border: 3px solid #ff294f;
+    border: 3px solid #fff;
     padding: 9px;
     padding-right: 30px;
     padding-left: 30px;
@@ -133,16 +134,16 @@ nav {
     text-transform: uppercase;
 }
 #season {
-    background-color: #f5f4f0;
+    background-color: #516a4c;
     text-align: center;
     margin: auto;
     width: 80%;
 }
 #season_cont {
-    background-color: #f5f4f0;
+    background-color: #516a4c;
 }
 #season h3 {
-    color: #516a4c;
+    color: #fff;
     padding: 4%;
     text-transform: uppercase;
     font-size: 1em
